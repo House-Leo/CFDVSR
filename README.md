@@ -30,7 +30,9 @@
 
 - **Video Demo**
 
-<video width="800" controls="controls" src="./assets/videos/video_demo_015.mp4"></video>
+https://github.com/House-Leo/CFDVSR/assets/47940711/ed207ca3-ff43-4514-a436-df63df67e41c.mp4
+
+https://github.com/House-Leo/CFDVSR/assets/47940711/9ad3d6fe-d462-4e68-a915-3492406420dd.mp4
 
 ### Citation
 If this work is helpful for your research, please consider citing the following BibTeX entry.
