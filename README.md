@@ -2,8 +2,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=House-Leo/CFDVSR)[![GitHub Stars](https://img.shields.io/github/stars/House-Leo/CFDVSR?style=social)](https://github.com/House-Leo/CFDVSR)
 > [[Paper (arxiv)](https://arxiv.org/abs/2404.04745)] &emsp; [[Project Page](https://github.com/House-Leo/CFDVSR)]
 
-> [Hao Li](https://house-leo.github.io/), [Xiang Chen](https://cschenxiang.github.io/), [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN), [Jinshan Pan](https://jspan.github.io/)
-[IMAG Lab](https://imag-njust.net/), Nanjing University of Science and Technology
+> [Hao Li](https://house-leo.github.io/), [Xiang Chen](https://cschenxiang.github.io/), [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN), [Jinshan Pan](https://jspan.github.io/) <br>
+> [IMAG Lab](https://imag-njust.net/), Nanjing University of Science and Technology
 
 ---
 <p align="center">
